@@ -86,7 +86,7 @@ export const cannabisEducation: CannabisInfo = {
       id: 'current-status',
       title: 'Current Legal Status and Progress',
       content: [
-        'As of 2025, numerous states have legalized cannabis for medical and/or recreational use.',
+        'In recent years, numerous states have legalized cannabis for medical and/or recreational use.',
         'Public opinion has shifted dramatically, with majority support for legalization.',
         'International trend: Several countries including Canada, Uruguay, and parts of Europe have legalized cannabis.',
         'Federal reform is increasingly discussed as states demonstrate successful regulatory models.',
